@@ -13,7 +13,8 @@
   },
   "jspm": {
     "dependencies": {
-      "mercury": "npm:mercury@^14.0.0"
+      "mercury": "npm:mercury@^14.0.0",
+      "stackp/promisejs": "github:stackp/promisejs@master"
     },
     "devDependencies": {
       "babel": "npm:babel-core@^5.8.24",
